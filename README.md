@@ -9,13 +9,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I’m Abdul Rafeh, a QA Tester with a solid foundation in Android development and over 3 years of hands-on experience building and debugging mobile applications. I'm transitioning into Quality Assurance to leverage my deep understanding of development lifecycles, user expectations, and performance optimization in ensuring the highest level of software quality.
+I’m **Sidra Anwar**, a QA Tester and Android Developer with over 3 years of hands-on experience in building, testing, and optimizing mobile applications. I specialize in delivering high-quality digital products through a combined skill set in both mobile development and quality assurance.
 
-My background in frontend and mobile app development gives me an edge in identifying, reproducing, and reporting bugs from both technical and end-user perspectives. I'm well-versed in manual and automated testing strategies, writing clear and concise test cases, and ensuring efficient communication between QA and dev teams.
+With a strong foundation in Android development, I understand the intricacies of mobile app performance, UI/UX behavior, and real-world device challenges. My QA experience includes manual and automated testing, API testing, regression analysis, and usability assessments — enabling me to find critical bugs before users do.
 
-My areas of focus include functional testing, UI/UX validation, regression testing, API testing, and performance monitoring. I am passionate about delivering user-friendly products by ensuring they meet the highest standards of quality, usability, and performance.
+I focus on ensuring application stability, performance, and user satisfaction by combining development insights with rigorous testing methodologies. This dual expertise allows me to bridge the gap between development and testing teams, driving collaboration and improving software quality across the board.
 
-Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I bring strong problem-solving skills and a collaborative mindset to any project. I'm currently seeking QA Testing roles where I can contribute my unique perspective as a former developer and continue growing in test automation and quality engineering.
+Graduated from [International Islamic University Islamabad](https://www.iiu.edu.pk/) as a Software Engineers, I bring a well-rounded and analytical mindset to every project I work on. I enjoy solving complex problems, enhancing product quality, and working with teams that value detail, performance, and innovation.
 
 ---
 
@@ -31,7 +31,7 @@ Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Com
 ### 🛠️ Tools & Technologies:
 
 - Manual Testing & Bug Tracking (JIRA, Trello, TestRail)
-- Test Automation (Selenium WebDriver, Cypress, Playwright)
+- Test Automation (Selenium WebDriver)
 - API Testing (Postman, REST Assured)
 - CI/CD (GitHub Actions, Jenkins)
 - Version Control (Git, GitHub)
@@ -43,12 +43,9 @@ Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Com
 
 ---
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrafeh857&theme=light&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidraanwarqa&theme=light&show_icons=true&hide_border=true&count_private=true" />
 
 # 📫 How to reach me:  
-abdulrafeh857@gmail.com or +92-318-5335842
+sidraanwarqa@gmail.com
 
-[twitter]: https://twitter.com/abdulrafeh857  
-[facebook]: https://www.facebook.com/abdul.rafeh.857/  
-[instagram]: https://instagram.com/rafeh.abdul  
-[linkedin]: https://www.linkedin.com/in/abdulrafeh857
+[linkedin]: https://www.linkedin.com/in/sidraanwarqa
