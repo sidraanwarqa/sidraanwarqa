@@ -9,13 +9,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I’m **Sidra Anwar**, a QA Tester and Android Developer with over 3 years of hands-on experience in building, testing, and optimizing mobile applications. I specialize in delivering high-quality digital products through a combined skill set in both mobile development and quality assurance.
+I’m **Sidra Anwar**, a QA Tester with 3+ years of experience ensuring software quality through manual and automated testing. I specialize in functional testing, regression testing, UI/UX validation, and API testing.
 
-With a strong foundation in Android development, I understand the intricacies of mobile app performance, UI/UX behavior, and real-world device challenges. My QA experience includes manual and automated testing, API testing, regression analysis, and usability assessments — enabling me to find critical bugs before users do.
+With a deep understanding of SDLC and agile practices, I bring a detail-oriented and analytical approach to identifying critical bugs, improving product usability, and enhancing overall performance. I collaborate closely with developers and stakeholders to deliver bug-free, stable, and user-friendly software.
 
-I focus on ensuring application stability, performance, and user satisfaction by combining development insights with rigorous testing methodologies. This dual expertise allows me to bridge the gap between development and testing teams, driving collaboration and improving software quality across the board.
-
-Graduated from [International Islamic University Islamabad](https://www.iiu.edu.pk/) as a Software Engineers, I bring a well-rounded and analytical mindset to every project I work on. I enjoy solving complex problems, enhancing product quality, and working with teams that value detail, performance, and innovation.
+Graduated from [International Islamic University Islamabad](https://www.iiu.edu.pk/) in Software Engineering, I’m passionate about quality assurance, performance optimization, and continuous learning in the evolving tech landscape.
 
 ---
 
@@ -36,7 +34,7 @@ Graduated from [International Islamic University Islamabad](https://www.iiu.edu.
 - Cross-Browser & Responsive Testing
 - Android Debug Bridge (ADB) for mobile testing
 - Basic scripting (JavaScript, Bash)
-- Familiarity with QA documentation: Test Plans, Test Cases, and Bug Reports
+- QA Documentation: Test Plans, Test Cases, Bug Reports
 
 ---
 
