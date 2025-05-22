@@ -2,7 +2,6 @@
 
 ![QA](https://img.shields.io/badge/QA%20Tester-Engineer-blue?style=flat-square&logo=testing-library&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -26,7 +25,6 @@ Graduated from [International Islamic University Islamabad](https://www.iiu.edu.
 ### 🛠️ Tools & Technologies:
 
 - Manual Testing & Bug Tracking (JIRA, Trello, TestRail)
-- Test Automation (Selenium WebDriver)
 - API Testing (Postman, REST Assured)
 - CI/CD (GitHub Actions, Jenkins)
 - Version Control (Git, GitHub)
